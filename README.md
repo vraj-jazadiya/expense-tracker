@@ -4,10 +4,10 @@ A simple CLI app to manage personal finances. Built to practice fundamentals lik
 
 ##Key sections:
 
-📝 Brief description
-✨ 5 main features
-🚀 Quick start command
-📋 Menu options
-📚 What you learned (great for growth reflection!)
+- 📝 Brief description
+- ✨ 5 main features
+- 🚀 Quick start command
+- 📋 Menu options
+- 📚 What you learned (great for growth reflection!)
 
 #Python 
